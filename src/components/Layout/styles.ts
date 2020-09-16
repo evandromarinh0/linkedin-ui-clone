@@ -9,7 +9,7 @@ export const Container = styled.div`
         display: flex;
     }
 
-    .left-column, .right-column {
+    .left-column, .right-column, .ad-banner {
         display: none;
     }
 
@@ -28,7 +28,7 @@ export const Container = styled.div`
             padding: 8px 0;
         }
 
-        .left-column, .right-column {
+        .left-column, .right-column, .ad-banner {
             display: unset;
         }
         .middle-column {
