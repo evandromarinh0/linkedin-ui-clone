@@ -25,7 +25,7 @@ export const Container = styled.div`
         }
         > span {
             margin-top: 52px;
-            padding: 8px 0%;
+            padding: 8px 0;
         }
 
         .left-column, .right-column {
